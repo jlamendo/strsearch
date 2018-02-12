@@ -1,0 +1,22 @@
+{
+  "name": "strsearch",
+  "version": "1.0.0",
+  "description": "Flexible, language agnostic detection of all \"strings\" in a line of code/configuration language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlamendo/strsearch.git"
+  },
+  "author": "Jon Lamendola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jlamendo/strsearch/issues"
+  },
+  "homepage": "https://github.com/jlamendo/strsearch#readme",
+  "dependencies": {
+    "is-utf8": "^0.2.1"
+  }
+}
